@@ -13,6 +13,6 @@ DonCom es una solución completa y segura para la gestión de cibercafés, despl
 - **Seguridad Mejorada:** Exclusión de terminales virtuales para prevenir accesos no autorizados.
 
 ## Objetivos del Proyecto 🎯:
-- [] Establecer un sistema eficiente y seguro para cibercafés.
-- [] Simplificar las tareas de administración y mantenimiento.
-- [] Mejorar la experiencia tanto para usuarios como para gestores del cibercafé.
+- Establecer un sistema eficiente y seguro para cibercafés.
+- Simplificar las tareas de administración y mantenimiento.
+- Mejorar la experiencia tanto para usuarios como para gestores del cibercafé.
