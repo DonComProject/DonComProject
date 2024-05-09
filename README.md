@@ -1,16 +1,18 @@
-### Hi there 👋
+# DonCom 💻☕️
 
-<!--
-**DonComProject/DonComProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DonCom es una solución completa y segura para la gestión de cibercafés, desplegada mediante dos ISOs (**cliente** y **servidor**). Ofrece control de sesiones y gestión integral, garantizando seguridad y eficiencia.
 
-Here are some ideas to get you started:
+## Características principales ℹ️:
+- **Despliegue Dual:** Utiliza dos ISOs, uno para el cliente y otro para el servidor.
+- **Control de Sesiones:** Limitación y gestión de sesiones de usuario para un uso equilibrado de recursos.
+- **Gestión Integral:** Funcionalidades completas para la administración eficiente del cibercafé.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Funcionalidades destacadas 🚀:
+- **Control Remoto:** Posibilidad de supervisión y control remoto de las máquinas.
+- **Arranque Remoto:** Inicia las máquinas de forma remota para optimizar tiempos de operación.
+- **Seguridad Mejorada:** Exclusión de terminales virtuales para prevenir accesos no autorizados.
+
+## Objetivos del Proyecto 🎯:
+- [] Establecer un sistema eficiente y seguro para cibercafés.
+- [] Simplificar las tareas de administración y mantenimiento.
+- [] Mejorar la experiencia tanto para usuarios como para gestores del cibercafé.
