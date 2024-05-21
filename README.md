@@ -17,6 +17,8 @@ DonCom es una solución completa y segura para la gestión de cibercafés, despl
 - Simplificar las tareas de administración y mantenimiento.
 - Mejorar la experiencia tanto para usuarios como para gestores del cibercafé.
 
+## Herramientas ⚙
+
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
