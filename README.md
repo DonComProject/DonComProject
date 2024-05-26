@@ -1,24 +1,23 @@
 # DonCom 💻☕️
 
-DonCom es una solución completa y segura para la gestión de cibercafés, desplegada mediante dos ISOs (**cliente** y **servidor**). Ofrece control de sesiones y gestión integral, garantizando seguridad y eficiencia.
+DonCom is a comprehensive and secure solution for managing cybercafés, deployed using two ISOs (**client** and **server**). It offers session control and comprehensive management, ensuring security and efficiency.
 
-## Características principales ℹ️:
-- **Despliegue Dual:** Utiliza dos ISOs, uno para el cliente y otro para el servidor.
-- **Control de Sesiones:** Limitación y gestión de sesiones de usuario para un uso equilibrado de recursos.
-- **Gestión Integral:** Funcionalidades completas para la administración eficiente del cibercafé.
+## Key Features ℹ️:
+- **Dual Deployment:** Utilizes two ISOs, one for the client and one for the server.
+- **Session Control:** Limitation and management of user sessions for balanced resource usage.
+- **Comprehensive Management:** Complete functionalities for efficient cybercafé administration.
 
-## Funcionalidades destacadas 🚀:
-- **Control Remoto:** Posibilidad de supervisión y control remoto de las máquinas.
-- **Arranque Remoto:** Inicia las máquinas de forma remota para optimizar tiempos de operación.
-- **Seguridad Mejorada:** Exclusión de terminales virtuales para prevenir accesos no autorizados.
+## Highlighted Features 🚀:
+- **Remote Control:** Ability to monitor and remotely control machines.
+- **Remote Boot:** Remote user creation.
+- **Enhanced Security:** Exclusion of virtual terminals to prevent unauthorized access.
 
-## Objetivos del Proyecto 🎯:
-- Establecer un sistema eficiente y seguro para cibercafés.
-- Simplificar las tareas de administración y mantenimiento.
-- Mejorar la experiencia tanto para usuarios como para gestores del cibercafé.
+## Project Objectives 🎯:
+- &#x2713; Establish an efficient and secure system for cybercafés.
+- &#x2713; Simplify administrative and maintenance tasks.
+- &#x2713; Improve the experience for both users and cybercafé managers.
 
-## Herramientas ⚙:
-
+## Tools ⚙:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
