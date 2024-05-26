@@ -13,9 +13,9 @@ DonCom is a comprehensive and secure solution for managing cybercafés, deployed
 - **Enhanced Security:** Exclusion of virtual terminals to prevent unauthorized access.
 
 ## Project Objectives 🎯:
-&#x2713; Establish an efficient and secure system for cybercafés.
-&#x2713; Simplify administrative and maintenance tasks.
-&#x2713; Improve the experience for both users and cybercafé managers.
+- &#x2713; Establish an efficient and secure system for cybercafés.
+- &#x2713; Simplify administrative and maintenance tasks.
+- &#x2713; Improve the experience for both users and cybercafé managers.
 
 ## Tools ⚙:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
