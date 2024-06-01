@@ -20,7 +20,7 @@ DonCom is a comprehensive and secure solution for managing cybercafés, deployed
 ## Tools ⚙:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VEYON](https://img.shields.io/badge/Veyon-black?style=for-the-badge&logo=v)
+![VEYON](https://img.shields.io/badge/Veyon-gray?style=for-the-badge&logo=vectary)
 ![LDAP](https://img.shields.io/badge/LDAP-green?style=for-the-badge&logo=listmonk)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -31,7 +31,7 @@ DonCom is a comprehensive and secure solution for managing cybercafés, deployed
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![AVAHI](https://img.shields.io/badge/Avahi-red?style=for-the-badge&logo=academia)
 ![ROCKET](https://img.shields.io/badge/Rocket-orange?style=for-the-badge&logo=rocket)
-![YAKUZA](https://img.shields.io/badge/Yakuza-gray?style=for-the-badge&logo=framework)
+![YAKUZA](https://img.shields.io/badge/Yakuza-black?style=for-the-badge&logo=framework)
 
 
 
