@@ -26,8 +26,8 @@ DonCom is a comprehensive and secure solution for managing cybercafés, deployed
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LDAP]([https://img.shields.io/badge/LDAP-?style=for-the-badge&logo=ldap&logoColor=white&labelColor=blue&logoSize=auto](https://img.shields.io/badge/LDAP-enabled-brightgreen?style=for-the-badge&labelColor=blue
-)
+![LDAP](https://img.shields.io/badge/LDAP-enabled-brightgreen?style=for-the-badge&logo=https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Openldap.component.complex-narrative-l.ts=1691595506351.png&logoColor=white)
+
 
 
 
