@@ -18,6 +18,8 @@ DonCom is a comprehensive and secure solution for managing cybercafés, deployed
 - &#x2713; Improve the experience for both users and cybercafé managers.
 
 ## Tools ⚙:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VEYON](https://img.shields.io/badge/Veyon-black?style=for-the-badge&logo=v)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
