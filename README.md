@@ -31,7 +31,7 @@ DonCom is a comprehensive and secure solution for managing cybercafés, deployed
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![AVAHI](https://img.shields.io/badge/Avahi-red?style=for-the-badge&logo=academia)
 ![ROCKET](https://img.shields.io/badge/Rocket-orange?style=for-the-badge&logo=rocket)
-![YAKUZA](https://img.shields.io/badge/Yakuza-black?style=for-the-badge&logo=framework)
+![YAKUZA](https://img.shields.io/badge/Yakuza-black?style=for-the-badge&logo=discogs)
 
 
 
